@@ -14,3 +14,6 @@ Java/factory/out
 Java/singleton/.idea
 Java/singleton/singleton.iml
 Java/singleton/out
+Java/command/.idea
+Java/command/command.iml
+Java/command/out
