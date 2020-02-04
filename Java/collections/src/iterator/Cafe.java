@@ -6,7 +6,7 @@ public class Cafe {
     public static void main(String args[]) {
         PancakeHouseMenu pancakeHouseMenu = new PancakeHouseMenu();
         DinerMenu dinerMenu = new DinerMenu();
-        
+
         System.out.println("\nMENU\n----\nBREAKFAST");
         ArrayList<String> breakfastItems = pancakeHouseMenu.getMenuItems();
         for (int i = 0; i < breakfastItems.size(); i++) {
