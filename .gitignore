@@ -11,3 +11,6 @@ Java/decorator/out
 Java/factory/.idea
 Java/factory/factory.iml
 Java/factory/out
+Java/singleton/.idea
+Java/singleton/singleton.iml
+Java/singleton/out
