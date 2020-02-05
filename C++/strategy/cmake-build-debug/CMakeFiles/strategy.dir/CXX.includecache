@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Chans/Documents/DesignModel/C++/strategy/Duck.h
+type_traits
+-
+iostream
+-
+FlyBehavior.h
+C:/Users/Chans/Documents/DesignModel/C++/strategy/FlyBehavior.h
+QuackBehavior.h
+C:/Users/Chans/Documents/DesignModel/C++/strategy/QuackBehavior.h
+
+C:/Users/Chans/Documents/DesignModel/C++/strategy/FakeQuack.h
+QuackBehavior.h
+C:/Users/Chans/Documents/DesignModel/C++/strategy/QuackBehavior.h
+
+C:/Users/Chans/Documents/DesignModel/C++/strategy/FlyBehavior.h
+
+C:/Users/Chans/Documents/DesignModel/C++/strategy/MallardDuck.h
+Duck.h
+C:/Users/Chans/Documents/DesignModel/C++/strategy/Duck.h
+
+C:/Users/Chans/Documents/DesignModel/C++/strategy/QuackBehavior.h
+
+C:/Users/Chans/Documents/DesignModel/C++/strategy/main.cpp
+iostream
+-
+Duck.h
+C:/Users/Chans/Documents/DesignModel/C++/strategy/Duck.h
+MallardDuck.h
+C:/Users/Chans/Documents/DesignModel/C++/strategy/MallardDuck.h
+FakeQuack.h
+C:/Users/Chans/Documents/DesignModel/C++/strategy/FakeQuack.h
+
