@@ -82,6 +82,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/strategy/DecoyDuck.cpp">
+			<Option target="strategy"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/strategy/DecoyDuck.h">
+			<Option target="strategy"/>
+		</Unit>
 		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/strategy/Duck.h">
 			<Option target="strategy"/>
 		</Unit>
@@ -94,6 +100,12 @@
 		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/strategy/FlyBehavior.h">
 			<Option target="strategy"/>
 		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/strategy/FlyNoWay.cpp">
+			<Option target="strategy"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/strategy/FlyNoWay.h">
+			<Option target="strategy"/>
+		</Unit>
 		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/strategy/FlyWithWings.cpp">
 			<Option target="strategy"/>
 		</Unit>
@@ -104,6 +116,12 @@
 			<Option target="strategy"/>
 		</Unit>
 		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/strategy/MallardDuck.h">
+			<Option target="strategy"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/strategy/MuteQuack.cpp">
+			<Option target="strategy"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/strategy/MuteQuack.h">
 			<Option target="strategy"/>
 		</Unit>
 		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/strategy/Quack.cpp">

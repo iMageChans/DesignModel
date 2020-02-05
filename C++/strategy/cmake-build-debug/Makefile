@@ -124,6 +124,33 @@ strategy\fast:
 	$(MAKE) -f CMakeFiles\strategy.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\strategy.dir\build
 .PHONY : strategy\fast
 
+DecoyDuck.obj: DecoyDuck.cpp.obj
+
+.PHONY : DecoyDuck.obj
+
+# target to build an object file
+DecoyDuck.cpp.obj:
+	$(MAKE) -f CMakeFiles\strategy.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\strategy.dir\DecoyDuck.cpp.obj
+.PHONY : DecoyDuck.cpp.obj
+
+DecoyDuck.i: DecoyDuck.cpp.i
+
+.PHONY : DecoyDuck.i
+
+# target to preprocess a source file
+DecoyDuck.cpp.i:
+	$(MAKE) -f CMakeFiles\strategy.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\strategy.dir\DecoyDuck.cpp.i
+.PHONY : DecoyDuck.cpp.i
+
+DecoyDuck.s: DecoyDuck.cpp.s
+
+.PHONY : DecoyDuck.s
+
+# target to generate assembly for a file
+DecoyDuck.cpp.s:
+	$(MAKE) -f CMakeFiles\strategy.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\strategy.dir\DecoyDuck.cpp.s
+.PHONY : DecoyDuck.cpp.s
+
 FakeQuack.obj: FakeQuack.cpp.obj
 
 .PHONY : FakeQuack.obj
@@ -150,6 +177,33 @@ FakeQuack.s: FakeQuack.cpp.s
 FakeQuack.cpp.s:
 	$(MAKE) -f CMakeFiles\strategy.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\strategy.dir\FakeQuack.cpp.s
 .PHONY : FakeQuack.cpp.s
+
+FlyNoWay.obj: FlyNoWay.cpp.obj
+
+.PHONY : FlyNoWay.obj
+
+# target to build an object file
+FlyNoWay.cpp.obj:
+	$(MAKE) -f CMakeFiles\strategy.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\strategy.dir\FlyNoWay.cpp.obj
+.PHONY : FlyNoWay.cpp.obj
+
+FlyNoWay.i: FlyNoWay.cpp.i
+
+.PHONY : FlyNoWay.i
+
+# target to preprocess a source file
+FlyNoWay.cpp.i:
+	$(MAKE) -f CMakeFiles\strategy.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\strategy.dir\FlyNoWay.cpp.i
+.PHONY : FlyNoWay.cpp.i
+
+FlyNoWay.s: FlyNoWay.cpp.s
+
+.PHONY : FlyNoWay.s
+
+# target to generate assembly for a file
+FlyNoWay.cpp.s:
+	$(MAKE) -f CMakeFiles\strategy.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\strategy.dir\FlyNoWay.cpp.s
+.PHONY : FlyNoWay.cpp.s
 
 FlyWithWings.obj: FlyWithWings.cpp.obj
 
@@ -204,6 +258,33 @@ MallardDuck.s: MallardDuck.cpp.s
 MallardDuck.cpp.s:
 	$(MAKE) -f CMakeFiles\strategy.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\strategy.dir\MallardDuck.cpp.s
 .PHONY : MallardDuck.cpp.s
+
+MuteQuack.obj: MuteQuack.cpp.obj
+
+.PHONY : MuteQuack.obj
+
+# target to build an object file
+MuteQuack.cpp.obj:
+	$(MAKE) -f CMakeFiles\strategy.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\strategy.dir\MuteQuack.cpp.obj
+.PHONY : MuteQuack.cpp.obj
+
+MuteQuack.i: MuteQuack.cpp.i
+
+.PHONY : MuteQuack.i
+
+# target to preprocess a source file
+MuteQuack.cpp.i:
+	$(MAKE) -f CMakeFiles\strategy.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\strategy.dir\MuteQuack.cpp.i
+.PHONY : MuteQuack.cpp.i
+
+MuteQuack.s: MuteQuack.cpp.s
+
+.PHONY : MuteQuack.s
+
+# target to generate assembly for a file
+MuteQuack.cpp.s:
+	$(MAKE) -f CMakeFiles\strategy.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\strategy.dir\MuteQuack.cpp.s
+.PHONY : MuteQuack.cpp.s
 
 Quack.obj: Quack.cpp.obj
 
@@ -268,15 +349,24 @@ help:
 	@echo ... strategy
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... DecoyDuck.obj
+	@echo ... DecoyDuck.i
+	@echo ... DecoyDuck.s
 	@echo ... FakeQuack.obj
 	@echo ... FakeQuack.i
 	@echo ... FakeQuack.s
+	@echo ... FlyNoWay.obj
+	@echo ... FlyNoWay.i
+	@echo ... FlyNoWay.s
 	@echo ... FlyWithWings.obj
 	@echo ... FlyWithWings.i
 	@echo ... FlyWithWings.s
 	@echo ... MallardDuck.obj
 	@echo ... MallardDuck.i
 	@echo ... MallardDuck.s
+	@echo ... MuteQuack.obj
+	@echo ... MuteQuack.i
+	@echo ... MuteQuack.s
 	@echo ... Quack.obj
 	@echo ... Quack.i
 	@echo ... Quack.s
