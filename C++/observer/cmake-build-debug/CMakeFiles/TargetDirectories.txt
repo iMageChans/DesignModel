@@ -1,3 +1,0 @@
-C:/Users/Chans/Documents/DesignModel/C++/observer/cmake-build-debug/CMakeFiles/observer.dir
-C:/Users/Chans/Documents/DesignModel/C++/observer/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Chans/Documents/DesignModel/C++/observer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
