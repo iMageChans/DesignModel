@@ -4,7 +4,7 @@
 
 #include "DecoyDuck.h"
 #include "FlyNoWay.h"
-#include "MuteQuack.h"
+#include "../../../../Desktop/strategy/MuteQuack.h"
 
 DecoyDuck::DecoyDuck() {
     setFlyBehavior(new FlyNoWay());

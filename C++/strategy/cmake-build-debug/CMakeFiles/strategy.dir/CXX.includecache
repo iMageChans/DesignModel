@@ -6,14 +6,6 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Chans/Documents/DesignModel/C++/strategy/DecoyDuck.cpp
-DecoyDuck.h
-C:/Users/Chans/Documents/DesignModel/C++/strategy/DecoyDuck.h
-FlyNoWay.h
-C:/Users/Chans/Documents/DesignModel/C++/strategy/FlyNoWay.h
-MuteQuack.h
-C:/Users/Chans/Documents/DesignModel/C++/strategy/MuteQuack.h
-
 C:/Users/Chans/Documents/DesignModel/C++/strategy/DecoyDuck.h
 Duck.h
 C:/Users/Chans/Documents/DesignModel/C++/strategy/Duck.h
@@ -25,40 +17,18 @@ iostream
 -
 FlyBehavior.h
 C:/Users/Chans/Documents/DesignModel/C++/strategy/FlyBehavior.h
-QuackBehavior.h
-C:/Users/Chans/Documents/DesignModel/C++/strategy/QuackBehavior.h
+../../../../Desktop/strategy/QuackBehavior.h
+C:/Users/Chans/Desktop/strategy/QuackBehavior.h
 
 C:/Users/Chans/Documents/DesignModel/C++/strategy/FakeQuack.h
-QuackBehavior.h
-C:/Users/Chans/Documents/DesignModel/C++/strategy/QuackBehavior.h
+../../../../Desktop/strategy/QuackBehavior.h
+C:/Users/Chans/Desktop/strategy/QuackBehavior.h
 
-C:/Users/Chans/Documents/DesignModel/C++/strategy/FlyBehavior.h
-
-C:/Users/Chans/Documents/DesignModel/C++/strategy/FlyNoWay.cpp
-iostream
--
-FlyNoWay.h
-C:/Users/Chans/Documents/DesignModel/C++/strategy/FlyNoWay.h
-
-C:/Users/Chans/Documents/DesignModel/C++/strategy/FlyNoWay.h
-FlyBehavior.h
 C:/Users/Chans/Documents/DesignModel/C++/strategy/FlyBehavior.h
 
 C:/Users/Chans/Documents/DesignModel/C++/strategy/MallardDuck.h
 Duck.h
 C:/Users/Chans/Documents/DesignModel/C++/strategy/Duck.h
-
-C:/Users/Chans/Documents/DesignModel/C++/strategy/MuteQuack.cpp
-iostream
--
-MuteQuack.h
-C:/Users/Chans/Documents/DesignModel/C++/strategy/MuteQuack.h
-
-C:/Users/Chans/Documents/DesignModel/C++/strategy/MuteQuack.h
-QuackBehavior.h
-C:/Users/Chans/Documents/DesignModel/C++/strategy/QuackBehavior.h
-
-C:/Users/Chans/Documents/DesignModel/C++/strategy/QuackBehavior.h
 
 C:/Users/Chans/Documents/DesignModel/C++/strategy/main.cpp
 iostream

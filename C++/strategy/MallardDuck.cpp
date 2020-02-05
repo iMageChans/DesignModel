@@ -6,6 +6,10 @@
 #include "Quack.h"
 #include "FlyWithWings.h"
 
+void MallardDuck::dispaly() {
+    std::cout << "I'm a real Mallard duck" << std::endl;
+}
+
 MallardDuck::MallardDuck() {
     flyBehavior = new FlyWithWings();
     quackBehavior = new Quack();
@@ -14,8 +18,4 @@ MallardDuck::MallardDuck() {
 MallardDuck::~MallardDuck() {
     delete this->flyBehavior;
     delete this->quackBehavior;
-}
-
-void MallardDuck::dispaly() {
-    std::cout << "I'm a real Mallard duck" << std::endl;
 }

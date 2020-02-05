@@ -5,7 +5,7 @@
 #ifndef STRATEGY_FAKEQUACK_H
 #define STRATEGY_FAKEQUACK_H
 
-#include "QuackBehavior.h"
+#include "../../../../Desktop/strategy/QuackBehavior.h"
 
 class FakeQuack : public QuackBehavior{
 public:

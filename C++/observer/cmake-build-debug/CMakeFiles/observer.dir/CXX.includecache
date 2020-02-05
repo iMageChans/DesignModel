@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Chans/Documents/DesignModel/C++/observer/Observer.h
+
+C:/Users/Chans/Documents/DesignModel/C++/observer/SimpleObserver.cpp
+iostream
+-
+SimpleObserver.h
+C:/Users/Chans/Documents/DesignModel/C++/observer/SimpleObserver.h
+
+C:/Users/Chans/Documents/DesignModel/C++/observer/SimpleObserver.h
+Observer.h
+C:/Users/Chans/Documents/DesignModel/C++/observer/Observer.h
+Subject.h
+C:/Users/Chans/Documents/DesignModel/C++/observer/Subject.h
+
+C:/Users/Chans/Documents/DesignModel/C++/observer/Subject.h
+Observer.h
+C:/Users/Chans/Documents/DesignModel/C++/observer/Observer.h
+

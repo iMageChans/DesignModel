@@ -77,164 +77,17 @@ CMakeFiles\strategy.dir\main.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\strategy.dir\main.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\strategy\main.cpp
 <<
 
-CMakeFiles\strategy.dir\FakeQuack.cpp.obj: CMakeFiles\strategy.dir\flags.make
-CMakeFiles\strategy.dir\FakeQuack.cpp.obj: ..\FakeQuack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\strategy\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/strategy.dir/FakeQuack.cpp.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\strategy.dir\FakeQuack.cpp.obj /FdCMakeFiles\strategy.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\strategy\FakeQuack.cpp
-<<
-
-CMakeFiles\strategy.dir\FakeQuack.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/strategy.dir/FakeQuack.cpp.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\strategy.dir\FakeQuack.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\strategy\FakeQuack.cpp
-<<
-
-CMakeFiles\strategy.dir\FakeQuack.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/strategy.dir/FakeQuack.cpp.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\strategy.dir\FakeQuack.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\strategy\FakeQuack.cpp
-<<
-
-CMakeFiles\strategy.dir\FlyWithWings.cpp.obj: CMakeFiles\strategy.dir\flags.make
-CMakeFiles\strategy.dir\FlyWithWings.cpp.obj: ..\FlyWithWings.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\strategy\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/strategy.dir/FlyWithWings.cpp.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\strategy.dir\FlyWithWings.cpp.obj /FdCMakeFiles\strategy.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\strategy\FlyWithWings.cpp
-<<
-
-CMakeFiles\strategy.dir\FlyWithWings.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/strategy.dir/FlyWithWings.cpp.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\strategy.dir\FlyWithWings.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\strategy\FlyWithWings.cpp
-<<
-
-CMakeFiles\strategy.dir\FlyWithWings.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/strategy.dir/FlyWithWings.cpp.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\strategy.dir\FlyWithWings.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\strategy\FlyWithWings.cpp
-<<
-
-CMakeFiles\strategy.dir\MallardDuck.cpp.obj: CMakeFiles\strategy.dir\flags.make
-CMakeFiles\strategy.dir\MallardDuck.cpp.obj: ..\MallardDuck.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\strategy\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/strategy.dir/MallardDuck.cpp.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\strategy.dir\MallardDuck.cpp.obj /FdCMakeFiles\strategy.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\strategy\MallardDuck.cpp
-<<
-
-CMakeFiles\strategy.dir\MallardDuck.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/strategy.dir/MallardDuck.cpp.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\strategy.dir\MallardDuck.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\strategy\MallardDuck.cpp
-<<
-
-CMakeFiles\strategy.dir\MallardDuck.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/strategy.dir/MallardDuck.cpp.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\strategy.dir\MallardDuck.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\strategy\MallardDuck.cpp
-<<
-
-CMakeFiles\strategy.dir\Quack.cpp.obj: CMakeFiles\strategy.dir\flags.make
-CMakeFiles\strategy.dir\Quack.cpp.obj: ..\Quack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\strategy\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/strategy.dir/Quack.cpp.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\strategy.dir\Quack.cpp.obj /FdCMakeFiles\strategy.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\strategy\Quack.cpp
-<<
-
-CMakeFiles\strategy.dir\Quack.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/strategy.dir/Quack.cpp.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\strategy.dir\Quack.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\strategy\Quack.cpp
-<<
-
-CMakeFiles\strategy.dir\Quack.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/strategy.dir/Quack.cpp.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\strategy.dir\Quack.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\strategy\Quack.cpp
-<<
-
-CMakeFiles\strategy.dir\DecoyDuck.cpp.obj: CMakeFiles\strategy.dir\flags.make
-CMakeFiles\strategy.dir\DecoyDuck.cpp.obj: ..\DecoyDuck.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\strategy\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/strategy.dir/DecoyDuck.cpp.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\strategy.dir\DecoyDuck.cpp.obj /FdCMakeFiles\strategy.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\strategy\DecoyDuck.cpp
-<<
-
-CMakeFiles\strategy.dir\DecoyDuck.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/strategy.dir/DecoyDuck.cpp.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\strategy.dir\DecoyDuck.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\strategy\DecoyDuck.cpp
-<<
-
-CMakeFiles\strategy.dir\DecoyDuck.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/strategy.dir/DecoyDuck.cpp.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\strategy.dir\DecoyDuck.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\strategy\DecoyDuck.cpp
-<<
-
-CMakeFiles\strategy.dir\FlyNoWay.cpp.obj: CMakeFiles\strategy.dir\flags.make
-CMakeFiles\strategy.dir\FlyNoWay.cpp.obj: ..\FlyNoWay.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\strategy\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/strategy.dir/FlyNoWay.cpp.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\strategy.dir\FlyNoWay.cpp.obj /FdCMakeFiles\strategy.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\strategy\FlyNoWay.cpp
-<<
-
-CMakeFiles\strategy.dir\FlyNoWay.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/strategy.dir/FlyNoWay.cpp.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\strategy.dir\FlyNoWay.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\strategy\FlyNoWay.cpp
-<<
-
-CMakeFiles\strategy.dir\FlyNoWay.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/strategy.dir/FlyNoWay.cpp.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\strategy.dir\FlyNoWay.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\strategy\FlyNoWay.cpp
-<<
-
-CMakeFiles\strategy.dir\MuteQuack.cpp.obj: CMakeFiles\strategy.dir\flags.make
-CMakeFiles\strategy.dir\MuteQuack.cpp.obj: ..\MuteQuack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\strategy\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/strategy.dir/MuteQuack.cpp.obj"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\strategy.dir\MuteQuack.cpp.obj /FdCMakeFiles\strategy.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\strategy\MuteQuack.cpp
-<<
-
-CMakeFiles\strategy.dir\MuteQuack.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/strategy.dir/MuteQuack.cpp.i"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\strategy.dir\MuteQuack.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\strategy\MuteQuack.cpp
-<<
-
-CMakeFiles\strategy.dir\MuteQuack.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/strategy.dir/MuteQuack.cpp.s"
-	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\strategy.dir\MuteQuack.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\strategy\MuteQuack.cpp
-<<
-
 # Object files for target strategy
 strategy_OBJECTS = \
-"CMakeFiles\strategy.dir\main.cpp.obj" \
-"CMakeFiles\strategy.dir\FakeQuack.cpp.obj" \
-"CMakeFiles\strategy.dir\FlyWithWings.cpp.obj" \
-"CMakeFiles\strategy.dir\MallardDuck.cpp.obj" \
-"CMakeFiles\strategy.dir\Quack.cpp.obj" \
-"CMakeFiles\strategy.dir\DecoyDuck.cpp.obj" \
-"CMakeFiles\strategy.dir\FlyNoWay.cpp.obj" \
-"CMakeFiles\strategy.dir\MuteQuack.cpp.obj"
+"CMakeFiles\strategy.dir\main.cpp.obj"
 
 # External object files for target strategy
 strategy_EXTERNAL_OBJECTS =
 
 strategy.exe: CMakeFiles\strategy.dir\main.cpp.obj
-strategy.exe: CMakeFiles\strategy.dir\FakeQuack.cpp.obj
-strategy.exe: CMakeFiles\strategy.dir\FlyWithWings.cpp.obj
-strategy.exe: CMakeFiles\strategy.dir\MallardDuck.cpp.obj
-strategy.exe: CMakeFiles\strategy.dir\Quack.cpp.obj
-strategy.exe: CMakeFiles\strategy.dir\DecoyDuck.cpp.obj
-strategy.exe: CMakeFiles\strategy.dir\FlyNoWay.cpp.obj
-strategy.exe: CMakeFiles\strategy.dir\MuteQuack.cpp.obj
 strategy.exe: CMakeFiles\strategy.dir\build.make
 strategy.exe: CMakeFiles\strategy.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\strategy\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable strategy.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\strategy\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable strategy.exe"
 	C:\Users\Chans\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6015.37\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\strategy.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\strategy.dir\objects1.rsp @<<
  /out:strategy.exe /implib:strategy.lib /pdb:C:\Users\Chans\Documents\DesignModel\C++\strategy\cmake-build-debug\strategy.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<
