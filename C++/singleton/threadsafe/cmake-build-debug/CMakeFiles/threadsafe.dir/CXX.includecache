@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Chans/Documents/DesignModel/C++/singleton/threadsafe/Singleton.cpp
+Singleton.h
+C:/Users/Chans/Documents/DesignModel/C++/singleton/threadsafe/Singleton.h
+
+C:/Users/Chans/Documents/DesignModel/C++/singleton/threadsafe/Singleton.h
+iostream
+-
+mutex
+-
+
