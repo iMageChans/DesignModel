@@ -5,6 +5,8 @@
 #ifndef CHALLENGE_ZONE_H
 #define CHALLENGE_ZONE_H
 
+#include <xstring>
+
 using namespace std;
 
 class Zone {

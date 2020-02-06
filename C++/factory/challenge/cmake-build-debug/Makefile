@@ -124,6 +124,222 @@ challenge\fast:
 	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\build
 .PHONY : challenge\fast
 
+Calendar.obj: Calendar.cpp.obj
+
+.PHONY : Calendar.obj
+
+# target to build an object file
+Calendar.cpp.obj:
+	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\Calendar.cpp.obj
+.PHONY : Calendar.cpp.obj
+
+Calendar.i: Calendar.cpp.i
+
+.PHONY : Calendar.i
+
+# target to preprocess a source file
+Calendar.cpp.i:
+	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\Calendar.cpp.i
+.PHONY : Calendar.cpp.i
+
+Calendar.s: Calendar.cpp.s
+
+.PHONY : Calendar.s
+
+# target to generate assembly for a file
+Calendar.cpp.s:
+	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\Calendar.cpp.s
+.PHONY : Calendar.cpp.s
+
+PacificCalendar.obj: PacificCalendar.cpp.obj
+
+.PHONY : PacificCalendar.obj
+
+# target to build an object file
+PacificCalendar.cpp.obj:
+	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\PacificCalendar.cpp.obj
+.PHONY : PacificCalendar.cpp.obj
+
+PacificCalendar.i: PacificCalendar.cpp.i
+
+.PHONY : PacificCalendar.i
+
+# target to preprocess a source file
+PacificCalendar.cpp.i:
+	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\PacificCalendar.cpp.i
+.PHONY : PacificCalendar.cpp.i
+
+PacificCalendar.s: PacificCalendar.cpp.s
+
+.PHONY : PacificCalendar.s
+
+# target to generate assembly for a file
+PacificCalendar.cpp.s:
+	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\PacificCalendar.cpp.s
+.PHONY : PacificCalendar.cpp.s
+
+Zone.obj: Zone.cpp.obj
+
+.PHONY : Zone.obj
+
+# target to build an object file
+Zone.cpp.obj:
+	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\Zone.cpp.obj
+.PHONY : Zone.cpp.obj
+
+Zone.i: Zone.cpp.i
+
+.PHONY : Zone.i
+
+# target to preprocess a source file
+Zone.cpp.i:
+	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\Zone.cpp.i
+.PHONY : Zone.cpp.i
+
+Zone.s: Zone.cpp.s
+
+.PHONY : Zone.s
+
+# target to generate assembly for a file
+Zone.cpp.s:
+	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\Zone.cpp.s
+.PHONY : Zone.cpp.s
+
+ZoneCentral.obj: ZoneCentral.cpp.obj
+
+.PHONY : ZoneCentral.obj
+
+# target to build an object file
+ZoneCentral.cpp.obj:
+	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\ZoneCentral.cpp.obj
+.PHONY : ZoneCentral.cpp.obj
+
+ZoneCentral.i: ZoneCentral.cpp.i
+
+.PHONY : ZoneCentral.i
+
+# target to preprocess a source file
+ZoneCentral.cpp.i:
+	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\ZoneCentral.cpp.i
+.PHONY : ZoneCentral.cpp.i
+
+ZoneCentral.s: ZoneCentral.cpp.s
+
+.PHONY : ZoneCentral.s
+
+# target to generate assembly for a file
+ZoneCentral.cpp.s:
+	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\ZoneCentral.cpp.s
+.PHONY : ZoneCentral.cpp.s
+
+ZoneEastern.obj: ZoneEastern.cpp.obj
+
+.PHONY : ZoneEastern.obj
+
+# target to build an object file
+ZoneEastern.cpp.obj:
+	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\ZoneEastern.cpp.obj
+.PHONY : ZoneEastern.cpp.obj
+
+ZoneEastern.i: ZoneEastern.cpp.i
+
+.PHONY : ZoneEastern.i
+
+# target to preprocess a source file
+ZoneEastern.cpp.i:
+	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\ZoneEastern.cpp.i
+.PHONY : ZoneEastern.cpp.i
+
+ZoneEastern.s: ZoneEastern.cpp.s
+
+.PHONY : ZoneEastern.s
+
+# target to generate assembly for a file
+ZoneEastern.cpp.s:
+	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\ZoneEastern.cpp.s
+.PHONY : ZoneEastern.cpp.s
+
+ZoneFactory.obj: ZoneFactory.cpp.obj
+
+.PHONY : ZoneFactory.obj
+
+# target to build an object file
+ZoneFactory.cpp.obj:
+	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\ZoneFactory.cpp.obj
+.PHONY : ZoneFactory.cpp.obj
+
+ZoneFactory.i: ZoneFactory.cpp.i
+
+.PHONY : ZoneFactory.i
+
+# target to preprocess a source file
+ZoneFactory.cpp.i:
+	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\ZoneFactory.cpp.i
+.PHONY : ZoneFactory.cpp.i
+
+ZoneFactory.s: ZoneFactory.cpp.s
+
+.PHONY : ZoneFactory.s
+
+# target to generate assembly for a file
+ZoneFactory.cpp.s:
+	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\ZoneFactory.cpp.s
+.PHONY : ZoneFactory.cpp.s
+
+ZoneMountain.obj: ZoneMountain.cpp.obj
+
+.PHONY : ZoneMountain.obj
+
+# target to build an object file
+ZoneMountain.cpp.obj:
+	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\ZoneMountain.cpp.obj
+.PHONY : ZoneMountain.cpp.obj
+
+ZoneMountain.i: ZoneMountain.cpp.i
+
+.PHONY : ZoneMountain.i
+
+# target to preprocess a source file
+ZoneMountain.cpp.i:
+	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\ZoneMountain.cpp.i
+.PHONY : ZoneMountain.cpp.i
+
+ZoneMountain.s: ZoneMountain.cpp.s
+
+.PHONY : ZoneMountain.s
+
+# target to generate assembly for a file
+ZoneMountain.cpp.s:
+	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\ZoneMountain.cpp.s
+.PHONY : ZoneMountain.cpp.s
+
+ZonePacific.obj: ZonePacific.cpp.obj
+
+.PHONY : ZonePacific.obj
+
+# target to build an object file
+ZonePacific.cpp.obj:
+	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\ZonePacific.cpp.obj
+.PHONY : ZonePacific.cpp.obj
+
+ZonePacific.i: ZonePacific.cpp.i
+
+.PHONY : ZonePacific.i
+
+# target to preprocess a source file
+ZonePacific.cpp.i:
+	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\ZonePacific.cpp.i
+.PHONY : ZonePacific.cpp.i
+
+ZonePacific.s: ZonePacific.cpp.s
+
+.PHONY : ZonePacific.s
+
+# target to generate assembly for a file
+ZonePacific.cpp.s:
+	$(MAKE) -f CMakeFiles\challenge.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\challenge.dir\ZonePacific.cpp.s
+.PHONY : ZonePacific.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -160,6 +376,30 @@ help:
 	@echo ... challenge
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Calendar.obj
+	@echo ... Calendar.i
+	@echo ... Calendar.s
+	@echo ... PacificCalendar.obj
+	@echo ... PacificCalendar.i
+	@echo ... PacificCalendar.s
+	@echo ... Zone.obj
+	@echo ... Zone.i
+	@echo ... Zone.s
+	@echo ... ZoneCentral.obj
+	@echo ... ZoneCentral.i
+	@echo ... ZoneCentral.s
+	@echo ... ZoneEastern.obj
+	@echo ... ZoneEastern.i
+	@echo ... ZoneEastern.s
+	@echo ... ZoneFactory.obj
+	@echo ... ZoneFactory.i
+	@echo ... ZoneFactory.s
+	@echo ... ZoneMountain.obj
+	@echo ... ZoneMountain.i
+	@echo ... ZoneMountain.s
+	@echo ... ZonePacific.obj
+	@echo ... ZonePacific.i
+	@echo ... ZonePacific.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

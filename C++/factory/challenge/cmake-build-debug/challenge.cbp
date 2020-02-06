@@ -82,6 +82,54 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/factory/challenge/Calendar.cpp">
+			<Option target="challenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/factory/challenge/Calendar.h">
+			<Option target="challenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/factory/challenge/PacificCalendar.cpp">
+			<Option target="challenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/factory/challenge/PacificCalendar.h">
+			<Option target="challenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/factory/challenge/Zone.cpp">
+			<Option target="challenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/factory/challenge/Zone.h">
+			<Option target="challenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/factory/challenge/ZoneCentral.cpp">
+			<Option target="challenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/factory/challenge/ZoneCentral.h">
+			<Option target="challenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/factory/challenge/ZoneEastern.cpp">
+			<Option target="challenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/factory/challenge/ZoneEastern.h">
+			<Option target="challenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/factory/challenge/ZoneFactory.cpp">
+			<Option target="challenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/factory/challenge/ZoneFactory.h">
+			<Option target="challenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/factory/challenge/ZoneMountain.cpp">
+			<Option target="challenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/factory/challenge/ZoneMountain.h">
+			<Option target="challenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/factory/challenge/ZonePacific.cpp">
+			<Option target="challenge"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/factory/challenge/ZonePacific.h">
+			<Option target="challenge"/>
+		</Unit>
 		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/factory/challenge/main.cpp">
 			<Option target="challenge"/>
 		</Unit>

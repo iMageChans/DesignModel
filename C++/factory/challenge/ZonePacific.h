@@ -6,11 +6,18 @@
 #define CHALLENGE_ZONEPACIFIC_H
 
 #include "Zone.h"
+#include "ZoneFactory.h"
 
 class ZonePacific : public Zone{
 public:
     ZonePacific();
 };
 
+class ZonePacificnFactory : public ZoneFactory{
+public:
+    Zone* CreateZone() override{
+        return new ZonePacific();
+    }
+};
 
 #endif //CHALLENGE_ZONEPACIFIC_H

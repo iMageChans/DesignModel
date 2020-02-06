@@ -6,5 +6,6 @@
 
 
 ZonePacific::ZonePacific() {
-    
+    displayName = "US/Pacific";
+    offset = -8;
 }

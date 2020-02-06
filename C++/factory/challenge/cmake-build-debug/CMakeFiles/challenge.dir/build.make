@@ -77,17 +77,185 @@ CMakeFiles\challenge.dir\main.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\challenge.dir\main.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\main.cpp
 <<
 
+CMakeFiles\challenge.dir\Zone.cpp.obj: CMakeFiles\challenge.dir\flags.make
+CMakeFiles\challenge.dir\Zone.cpp.obj: ..\Zone.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/challenge.dir/Zone.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\challenge.dir\Zone.cpp.obj /FdCMakeFiles\challenge.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\Zone.cpp
+<<
+
+CMakeFiles\challenge.dir\Zone.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/challenge.dir/Zone.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\challenge.dir\Zone.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\Zone.cpp
+<<
+
+CMakeFiles\challenge.dir\Zone.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/challenge.dir/Zone.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\challenge.dir\Zone.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\Zone.cpp
+<<
+
+CMakeFiles\challenge.dir\ZonePacific.cpp.obj: CMakeFiles\challenge.dir\flags.make
+CMakeFiles\challenge.dir\ZonePacific.cpp.obj: ..\ZonePacific.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/challenge.dir/ZonePacific.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\challenge.dir\ZonePacific.cpp.obj /FdCMakeFiles\challenge.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\ZonePacific.cpp
+<<
+
+CMakeFiles\challenge.dir\ZonePacific.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/challenge.dir/ZonePacific.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\challenge.dir\ZonePacific.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\ZonePacific.cpp
+<<
+
+CMakeFiles\challenge.dir\ZonePacific.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/challenge.dir/ZonePacific.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\challenge.dir\ZonePacific.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\ZonePacific.cpp
+<<
+
+CMakeFiles\challenge.dir\ZoneMountain.cpp.obj: CMakeFiles\challenge.dir\flags.make
+CMakeFiles\challenge.dir\ZoneMountain.cpp.obj: ..\ZoneMountain.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/challenge.dir/ZoneMountain.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\challenge.dir\ZoneMountain.cpp.obj /FdCMakeFiles\challenge.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\ZoneMountain.cpp
+<<
+
+CMakeFiles\challenge.dir\ZoneMountain.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/challenge.dir/ZoneMountain.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\challenge.dir\ZoneMountain.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\ZoneMountain.cpp
+<<
+
+CMakeFiles\challenge.dir\ZoneMountain.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/challenge.dir/ZoneMountain.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\challenge.dir\ZoneMountain.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\ZoneMountain.cpp
+<<
+
+CMakeFiles\challenge.dir\ZoneEastern.cpp.obj: CMakeFiles\challenge.dir\flags.make
+CMakeFiles\challenge.dir\ZoneEastern.cpp.obj: ..\ZoneEastern.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/challenge.dir/ZoneEastern.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\challenge.dir\ZoneEastern.cpp.obj /FdCMakeFiles\challenge.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\ZoneEastern.cpp
+<<
+
+CMakeFiles\challenge.dir\ZoneEastern.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/challenge.dir/ZoneEastern.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\challenge.dir\ZoneEastern.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\ZoneEastern.cpp
+<<
+
+CMakeFiles\challenge.dir\ZoneEastern.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/challenge.dir/ZoneEastern.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\challenge.dir\ZoneEastern.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\ZoneEastern.cpp
+<<
+
+CMakeFiles\challenge.dir\ZoneCentral.cpp.obj: CMakeFiles\challenge.dir\flags.make
+CMakeFiles\challenge.dir\ZoneCentral.cpp.obj: ..\ZoneCentral.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/challenge.dir/ZoneCentral.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\challenge.dir\ZoneCentral.cpp.obj /FdCMakeFiles\challenge.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\ZoneCentral.cpp
+<<
+
+CMakeFiles\challenge.dir\ZoneCentral.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/challenge.dir/ZoneCentral.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\challenge.dir\ZoneCentral.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\ZoneCentral.cpp
+<<
+
+CMakeFiles\challenge.dir\ZoneCentral.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/challenge.dir/ZoneCentral.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\challenge.dir\ZoneCentral.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\ZoneCentral.cpp
+<<
+
+CMakeFiles\challenge.dir\ZoneFactory.cpp.obj: CMakeFiles\challenge.dir\flags.make
+CMakeFiles\challenge.dir\ZoneFactory.cpp.obj: ..\ZoneFactory.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/challenge.dir/ZoneFactory.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\challenge.dir\ZoneFactory.cpp.obj /FdCMakeFiles\challenge.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\ZoneFactory.cpp
+<<
+
+CMakeFiles\challenge.dir\ZoneFactory.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/challenge.dir/ZoneFactory.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\challenge.dir\ZoneFactory.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\ZoneFactory.cpp
+<<
+
+CMakeFiles\challenge.dir\ZoneFactory.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/challenge.dir/ZoneFactory.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\challenge.dir\ZoneFactory.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\ZoneFactory.cpp
+<<
+
+CMakeFiles\challenge.dir\Calendar.cpp.obj: CMakeFiles\challenge.dir\flags.make
+CMakeFiles\challenge.dir\Calendar.cpp.obj: ..\Calendar.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/challenge.dir/Calendar.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\challenge.dir\Calendar.cpp.obj /FdCMakeFiles\challenge.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\Calendar.cpp
+<<
+
+CMakeFiles\challenge.dir\Calendar.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/challenge.dir/Calendar.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\challenge.dir\Calendar.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\Calendar.cpp
+<<
+
+CMakeFiles\challenge.dir\Calendar.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/challenge.dir/Calendar.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\challenge.dir\Calendar.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\Calendar.cpp
+<<
+
+CMakeFiles\challenge.dir\PacificCalendar.cpp.obj: CMakeFiles\challenge.dir\flags.make
+CMakeFiles\challenge.dir\PacificCalendar.cpp.obj: ..\PacificCalendar.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/challenge.dir/PacificCalendar.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\challenge.dir\PacificCalendar.cpp.obj /FdCMakeFiles\challenge.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\PacificCalendar.cpp
+<<
+
+CMakeFiles\challenge.dir\PacificCalendar.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/challenge.dir/PacificCalendar.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\challenge.dir\PacificCalendar.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\PacificCalendar.cpp
+<<
+
+CMakeFiles\challenge.dir\PacificCalendar.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/challenge.dir/PacificCalendar.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\challenge.dir\PacificCalendar.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\PacificCalendar.cpp
+<<
+
 # Object files for target challenge
 challenge_OBJECTS = \
-"CMakeFiles\challenge.dir\main.cpp.obj"
+"CMakeFiles\challenge.dir\main.cpp.obj" \
+"CMakeFiles\challenge.dir\Zone.cpp.obj" \
+"CMakeFiles\challenge.dir\ZonePacific.cpp.obj" \
+"CMakeFiles\challenge.dir\ZoneMountain.cpp.obj" \
+"CMakeFiles\challenge.dir\ZoneEastern.cpp.obj" \
+"CMakeFiles\challenge.dir\ZoneCentral.cpp.obj" \
+"CMakeFiles\challenge.dir\ZoneFactory.cpp.obj" \
+"CMakeFiles\challenge.dir\Calendar.cpp.obj" \
+"CMakeFiles\challenge.dir\PacificCalendar.cpp.obj"
 
 # External object files for target challenge
 challenge_EXTERNAL_OBJECTS =
 
 challenge.exe: CMakeFiles\challenge.dir\main.cpp.obj
+challenge.exe: CMakeFiles\challenge.dir\Zone.cpp.obj
+challenge.exe: CMakeFiles\challenge.dir\ZonePacific.cpp.obj
+challenge.exe: CMakeFiles\challenge.dir\ZoneMountain.cpp.obj
+challenge.exe: CMakeFiles\challenge.dir\ZoneEastern.cpp.obj
+challenge.exe: CMakeFiles\challenge.dir\ZoneCentral.cpp.obj
+challenge.exe: CMakeFiles\challenge.dir\ZoneFactory.cpp.obj
+challenge.exe: CMakeFiles\challenge.dir\Calendar.cpp.obj
+challenge.exe: CMakeFiles\challenge.dir\PacificCalendar.cpp.obj
 challenge.exe: CMakeFiles\challenge.dir\build.make
 challenge.exe: CMakeFiles\challenge.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable challenge.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable challenge.exe"
 	C:\Users\Chans\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6015.37\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\challenge.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\challenge.dir\objects1.rsp @<<
  /out:challenge.exe /implib:challenge.lib /pdb:C:\Users\Chans\Documents\DesignModel\C++\factory\challenge\cmake-build-debug\challenge.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<
