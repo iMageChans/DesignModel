@@ -191,6 +191,329 @@ CMakeFiles\party.dir\Hottub.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\party.dir\Hottub.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\command\party\Hottub.cpp
 <<
 
+CMakeFiles\party.dir\HottubOffCommand.cpp.obj: CMakeFiles\party.dir\flags.make
+CMakeFiles\party.dir\HottubOffCommand.cpp.obj: ..\HottubOffCommand.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\command\party\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/party.dir/HottubOffCommand.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\party.dir\HottubOffCommand.cpp.obj /FdCMakeFiles\party.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\command\party\HottubOffCommand.cpp
+<<
+
+CMakeFiles\party.dir\HottubOffCommand.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/party.dir/HottubOffCommand.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\party.dir\HottubOffCommand.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\command\party\HottubOffCommand.cpp
+<<
+
+CMakeFiles\party.dir\HottubOffCommand.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/party.dir/HottubOffCommand.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\party.dir\HottubOffCommand.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\command\party\HottubOffCommand.cpp
+<<
+
+CMakeFiles\party.dir\HottubOnCommand.cpp.obj: CMakeFiles\party.dir\flags.make
+CMakeFiles\party.dir\HottubOnCommand.cpp.obj: ..\HottubOnCommand.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\command\party\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/party.dir/HottubOnCommand.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\party.dir\HottubOnCommand.cpp.obj /FdCMakeFiles\party.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\command\party\HottubOnCommand.cpp
+<<
+
+CMakeFiles\party.dir\HottubOnCommand.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/party.dir/HottubOnCommand.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\party.dir\HottubOnCommand.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\command\party\HottubOnCommand.cpp
+<<
+
+CMakeFiles\party.dir\HottubOnCommand.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/party.dir/HottubOnCommand.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\party.dir\HottubOnCommand.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\command\party\HottubOnCommand.cpp
+<<
+
+CMakeFiles\party.dir\Light.cpp.obj: CMakeFiles\party.dir\flags.make
+CMakeFiles\party.dir\Light.cpp.obj: ..\Light.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\command\party\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/party.dir/Light.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\party.dir\Light.cpp.obj /FdCMakeFiles\party.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\command\party\Light.cpp
+<<
+
+CMakeFiles\party.dir\Light.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/party.dir/Light.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\party.dir\Light.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\command\party\Light.cpp
+<<
+
+CMakeFiles\party.dir\Light.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/party.dir/Light.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\party.dir\Light.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\command\party\Light.cpp
+<<
+
+CMakeFiles\party.dir\LightOffCommand.cpp.obj: CMakeFiles\party.dir\flags.make
+CMakeFiles\party.dir\LightOffCommand.cpp.obj: ..\LightOffCommand.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\command\party\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/party.dir/LightOffCommand.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\party.dir\LightOffCommand.cpp.obj /FdCMakeFiles\party.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\command\party\LightOffCommand.cpp
+<<
+
+CMakeFiles\party.dir\LightOffCommand.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/party.dir/LightOffCommand.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\party.dir\LightOffCommand.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\command\party\LightOffCommand.cpp
+<<
+
+CMakeFiles\party.dir\LightOffCommand.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/party.dir/LightOffCommand.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\party.dir\LightOffCommand.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\command\party\LightOffCommand.cpp
+<<
+
+CMakeFiles\party.dir\LightOnCommand.cpp.obj: CMakeFiles\party.dir\flags.make
+CMakeFiles\party.dir\LightOnCommand.cpp.obj: ..\LightOnCommand.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\command\party\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/party.dir/LightOnCommand.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\party.dir\LightOnCommand.cpp.obj /FdCMakeFiles\party.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\command\party\LightOnCommand.cpp
+<<
+
+CMakeFiles\party.dir\LightOnCommand.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/party.dir/LightOnCommand.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\party.dir\LightOnCommand.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\command\party\LightOnCommand.cpp
+<<
+
+CMakeFiles\party.dir\LightOnCommand.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/party.dir/LightOnCommand.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\party.dir\LightOnCommand.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\command\party\LightOnCommand.cpp
+<<
+
+CMakeFiles\party.dir\LivingroomLightOffCommand.cpp.obj: CMakeFiles\party.dir\flags.make
+CMakeFiles\party.dir\LivingroomLightOffCommand.cpp.obj: ..\LivingroomLightOffCommand.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\command\party\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/party.dir/LivingroomLightOffCommand.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\party.dir\LivingroomLightOffCommand.cpp.obj /FdCMakeFiles\party.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\command\party\LivingroomLightOffCommand.cpp
+<<
+
+CMakeFiles\party.dir\LivingroomLightOffCommand.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/party.dir/LivingroomLightOffCommand.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\party.dir\LivingroomLightOffCommand.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\command\party\LivingroomLightOffCommand.cpp
+<<
+
+CMakeFiles\party.dir\LivingroomLightOffCommand.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/party.dir/LivingroomLightOffCommand.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\party.dir\LivingroomLightOffCommand.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\command\party\LivingroomLightOffCommand.cpp
+<<
+
+CMakeFiles\party.dir\LivingroomLightOnCommand.cpp.obj: CMakeFiles\party.dir\flags.make
+CMakeFiles\party.dir\LivingroomLightOnCommand.cpp.obj: ..\LivingroomLightOnCommand.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\command\party\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/party.dir/LivingroomLightOnCommand.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\party.dir\LivingroomLightOnCommand.cpp.obj /FdCMakeFiles\party.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\command\party\LivingroomLightOnCommand.cpp
+<<
+
+CMakeFiles\party.dir\LivingroomLightOnCommand.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/party.dir/LivingroomLightOnCommand.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\party.dir\LivingroomLightOnCommand.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\command\party\LivingroomLightOnCommand.cpp
+<<
+
+CMakeFiles\party.dir\LivingroomLightOnCommand.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/party.dir/LivingroomLightOnCommand.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\party.dir\LivingroomLightOnCommand.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\command\party\LivingroomLightOnCommand.cpp
+<<
+
+CMakeFiles\party.dir\MacroCommand.cpp.obj: CMakeFiles\party.dir\flags.make
+CMakeFiles\party.dir\MacroCommand.cpp.obj: ..\MacroCommand.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\command\party\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/party.dir/MacroCommand.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\party.dir\MacroCommand.cpp.obj /FdCMakeFiles\party.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\command\party\MacroCommand.cpp
+<<
+
+CMakeFiles\party.dir\MacroCommand.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/party.dir/MacroCommand.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\party.dir\MacroCommand.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\command\party\MacroCommand.cpp
+<<
+
+CMakeFiles\party.dir\MacroCommand.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/party.dir/MacroCommand.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\party.dir\MacroCommand.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\command\party\MacroCommand.cpp
+<<
+
+CMakeFiles\party.dir\NoCommand.cpp.obj: CMakeFiles\party.dir\flags.make
+CMakeFiles\party.dir\NoCommand.cpp.obj: ..\NoCommand.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\command\party\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/party.dir/NoCommand.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\party.dir\NoCommand.cpp.obj /FdCMakeFiles\party.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\command\party\NoCommand.cpp
+<<
+
+CMakeFiles\party.dir\NoCommand.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/party.dir/NoCommand.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\party.dir\NoCommand.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\command\party\NoCommand.cpp
+<<
+
+CMakeFiles\party.dir\NoCommand.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/party.dir/NoCommand.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\party.dir\NoCommand.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\command\party\NoCommand.cpp
+<<
+
+CMakeFiles\party.dir\RemoteControl.cpp.obj: CMakeFiles\party.dir\flags.make
+CMakeFiles\party.dir\RemoteControl.cpp.obj: ..\RemoteControl.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\command\party\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/party.dir/RemoteControl.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\party.dir\RemoteControl.cpp.obj /FdCMakeFiles\party.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\command\party\RemoteControl.cpp
+<<
+
+CMakeFiles\party.dir\RemoteControl.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/party.dir/RemoteControl.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\party.dir\RemoteControl.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\command\party\RemoteControl.cpp
+<<
+
+CMakeFiles\party.dir\RemoteControl.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/party.dir/RemoteControl.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\party.dir\RemoteControl.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\command\party\RemoteControl.cpp
+<<
+
+CMakeFiles\party.dir\Stereo.cpp.obj: CMakeFiles\party.dir\flags.make
+CMakeFiles\party.dir\Stereo.cpp.obj: ..\Stereo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\command\party\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/party.dir/Stereo.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\party.dir\Stereo.cpp.obj /FdCMakeFiles\party.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\command\party\Stereo.cpp
+<<
+
+CMakeFiles\party.dir\Stereo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/party.dir/Stereo.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\party.dir\Stereo.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\command\party\Stereo.cpp
+<<
+
+CMakeFiles\party.dir\Stereo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/party.dir/Stereo.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\party.dir\Stereo.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\command\party\Stereo.cpp
+<<
+
+CMakeFiles\party.dir\StereoOffCommand.cpp.obj: CMakeFiles\party.dir\flags.make
+CMakeFiles\party.dir\StereoOffCommand.cpp.obj: ..\StereoOffCommand.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\command\party\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/party.dir/StereoOffCommand.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\party.dir\StereoOffCommand.cpp.obj /FdCMakeFiles\party.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\command\party\StereoOffCommand.cpp
+<<
+
+CMakeFiles\party.dir\StereoOffCommand.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/party.dir/StereoOffCommand.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\party.dir\StereoOffCommand.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\command\party\StereoOffCommand.cpp
+<<
+
+CMakeFiles\party.dir\StereoOffCommand.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/party.dir/StereoOffCommand.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\party.dir\StereoOffCommand.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\command\party\StereoOffCommand.cpp
+<<
+
+CMakeFiles\party.dir\StereoOnCommand.cpp.obj: CMakeFiles\party.dir\flags.make
+CMakeFiles\party.dir\StereoOnCommand.cpp.obj: ..\StereoOnCommand.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\command\party\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/party.dir/StereoOnCommand.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\party.dir\StereoOnCommand.cpp.obj /FdCMakeFiles\party.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\command\party\StereoOnCommand.cpp
+<<
+
+CMakeFiles\party.dir\StereoOnCommand.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/party.dir/StereoOnCommand.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\party.dir\StereoOnCommand.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\command\party\StereoOnCommand.cpp
+<<
+
+CMakeFiles\party.dir\StereoOnCommand.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/party.dir/StereoOnCommand.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\party.dir\StereoOnCommand.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\command\party\StereoOnCommand.cpp
+<<
+
+CMakeFiles\party.dir\StereoOnWithCDCommand.cpp.obj: CMakeFiles\party.dir\flags.make
+CMakeFiles\party.dir\StereoOnWithCDCommand.cpp.obj: ..\StereoOnWithCDCommand.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\command\party\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/party.dir/StereoOnWithCDCommand.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\party.dir\StereoOnWithCDCommand.cpp.obj /FdCMakeFiles\party.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\command\party\StereoOnWithCDCommand.cpp
+<<
+
+CMakeFiles\party.dir\StereoOnWithCDCommand.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/party.dir/StereoOnWithCDCommand.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\party.dir\StereoOnWithCDCommand.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\command\party\StereoOnWithCDCommand.cpp
+<<
+
+CMakeFiles\party.dir\StereoOnWithCDCommand.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/party.dir/StereoOnWithCDCommand.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\party.dir\StereoOnWithCDCommand.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\command\party\StereoOnWithCDCommand.cpp
+<<
+
+CMakeFiles\party.dir\TV.cpp.obj: CMakeFiles\party.dir\flags.make
+CMakeFiles\party.dir\TV.cpp.obj: ..\TV.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\command\party\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/party.dir/TV.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\party.dir\TV.cpp.obj /FdCMakeFiles\party.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\command\party\TV.cpp
+<<
+
+CMakeFiles\party.dir\TV.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/party.dir/TV.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\party.dir\TV.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\command\party\TV.cpp
+<<
+
+CMakeFiles\party.dir\TV.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/party.dir/TV.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\party.dir\TV.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\command\party\TV.cpp
+<<
+
+CMakeFiles\party.dir\TVOffCommand.cpp.obj: CMakeFiles\party.dir\flags.make
+CMakeFiles\party.dir\TVOffCommand.cpp.obj: ..\TVOffCommand.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\command\party\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/party.dir/TVOffCommand.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\party.dir\TVOffCommand.cpp.obj /FdCMakeFiles\party.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\command\party\TVOffCommand.cpp
+<<
+
+CMakeFiles\party.dir\TVOffCommand.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/party.dir/TVOffCommand.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\party.dir\TVOffCommand.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\command\party\TVOffCommand.cpp
+<<
+
+CMakeFiles\party.dir\TVOffCommand.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/party.dir/TVOffCommand.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\party.dir\TVOffCommand.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\command\party\TVOffCommand.cpp
+<<
+
+CMakeFiles\party.dir\TVOnCommand.cpp.obj: CMakeFiles\party.dir\flags.make
+CMakeFiles\party.dir\TVOnCommand.cpp.obj: ..\TVOnCommand.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\command\party\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/party.dir/TVOnCommand.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\party.dir\TVOnCommand.cpp.obj /FdCMakeFiles\party.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\command\party\TVOnCommand.cpp
+<<
+
+CMakeFiles\party.dir\TVOnCommand.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/party.dir/TVOnCommand.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\party.dir\TVOnCommand.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\command\party\TVOnCommand.cpp
+<<
+
+CMakeFiles\party.dir\TVOnCommand.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/party.dir/TVOnCommand.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\party.dir\TVOnCommand.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\command\party\TVOnCommand.cpp
+<<
+
 # Object files for target party
 party_OBJECTS = \
 "CMakeFiles\party.dir\main.cpp.obj" \
@@ -199,7 +522,24 @@ party_OBJECTS = \
 "CMakeFiles\party.dir\CeilingFanHighCommand.cpp.obj" \
 "CMakeFiles\party.dir\CeilingFanMediumCommand.cpp.obj" \
 "CMakeFiles\party.dir\CeilingFanOffCommand.cpp.obj" \
-"CMakeFiles\party.dir\Hottub.cpp.obj"
+"CMakeFiles\party.dir\Hottub.cpp.obj" \
+"CMakeFiles\party.dir\HottubOffCommand.cpp.obj" \
+"CMakeFiles\party.dir\HottubOnCommand.cpp.obj" \
+"CMakeFiles\party.dir\Light.cpp.obj" \
+"CMakeFiles\party.dir\LightOffCommand.cpp.obj" \
+"CMakeFiles\party.dir\LightOnCommand.cpp.obj" \
+"CMakeFiles\party.dir\LivingroomLightOffCommand.cpp.obj" \
+"CMakeFiles\party.dir\LivingroomLightOnCommand.cpp.obj" \
+"CMakeFiles\party.dir\MacroCommand.cpp.obj" \
+"CMakeFiles\party.dir\NoCommand.cpp.obj" \
+"CMakeFiles\party.dir\RemoteControl.cpp.obj" \
+"CMakeFiles\party.dir\Stereo.cpp.obj" \
+"CMakeFiles\party.dir\StereoOffCommand.cpp.obj" \
+"CMakeFiles\party.dir\StereoOnCommand.cpp.obj" \
+"CMakeFiles\party.dir\StereoOnWithCDCommand.cpp.obj" \
+"CMakeFiles\party.dir\TV.cpp.obj" \
+"CMakeFiles\party.dir\TVOffCommand.cpp.obj" \
+"CMakeFiles\party.dir\TVOnCommand.cpp.obj"
 
 # External object files for target party
 party_EXTERNAL_OBJECTS =
@@ -211,9 +551,26 @@ party.exe: CMakeFiles\party.dir\CeilingFanHighCommand.cpp.obj
 party.exe: CMakeFiles\party.dir\CeilingFanMediumCommand.cpp.obj
 party.exe: CMakeFiles\party.dir\CeilingFanOffCommand.cpp.obj
 party.exe: CMakeFiles\party.dir\Hottub.cpp.obj
+party.exe: CMakeFiles\party.dir\HottubOffCommand.cpp.obj
+party.exe: CMakeFiles\party.dir\HottubOnCommand.cpp.obj
+party.exe: CMakeFiles\party.dir\Light.cpp.obj
+party.exe: CMakeFiles\party.dir\LightOffCommand.cpp.obj
+party.exe: CMakeFiles\party.dir\LightOnCommand.cpp.obj
+party.exe: CMakeFiles\party.dir\LivingroomLightOffCommand.cpp.obj
+party.exe: CMakeFiles\party.dir\LivingroomLightOnCommand.cpp.obj
+party.exe: CMakeFiles\party.dir\MacroCommand.cpp.obj
+party.exe: CMakeFiles\party.dir\NoCommand.cpp.obj
+party.exe: CMakeFiles\party.dir\RemoteControl.cpp.obj
+party.exe: CMakeFiles\party.dir\Stereo.cpp.obj
+party.exe: CMakeFiles\party.dir\StereoOffCommand.cpp.obj
+party.exe: CMakeFiles\party.dir\StereoOnCommand.cpp.obj
+party.exe: CMakeFiles\party.dir\StereoOnWithCDCommand.cpp.obj
+party.exe: CMakeFiles\party.dir\TV.cpp.obj
+party.exe: CMakeFiles\party.dir\TVOffCommand.cpp.obj
+party.exe: CMakeFiles\party.dir\TVOnCommand.cpp.obj
 party.exe: CMakeFiles\party.dir\build.make
 party.exe: CMakeFiles\party.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\command\party\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable party.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\command\party\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Linking CXX executable party.exe"
 	C:\Users\Chans\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6015.37\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\party.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\party.dir\objects1.rsp @<<
  /out:party.exe /implib:party.lib /pdb:C:\Users\Chans\Documents\DesignModel\C++\command\party\cmake-build-debug\party.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

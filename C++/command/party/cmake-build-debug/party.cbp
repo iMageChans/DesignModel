@@ -118,6 +118,108 @@
 		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/Hottub.h">
 			<Option target="party"/>
 		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/HottubOffCommand.cpp">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/HottubOffCommand.h">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/HottubOnCommand.cpp">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/HottubOnCommand.h">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/Light.cpp">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/Light.h">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/LightOffCommand.cpp">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/LightOffCommand.h">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/LightOnCommand.cpp">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/LightOnCommand.h">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/LivingroomLightOffCommand.cpp">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/LivingroomLightOffCommand.h">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/LivingroomLightOnCommand.cpp">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/LivingroomLightOnCommand.h">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/MacroCommand.cpp">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/MacroCommand.h">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/NoCommand.cpp">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/NoCommand.h">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/RemoteControl.cpp">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/RemoteControl.h">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/Stereo.cpp">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/Stereo.h">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/StereoOffCommand.cpp">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/StereoOffCommand.h">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/StereoOnCommand.cpp">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/StereoOnCommand.h">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/StereoOnWithCDCommand.cpp">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/StereoOnWithCDCommand.h">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/TV.cpp">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/TV.h">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/TVOffCommand.cpp">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/TVOffCommand.h">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/TVOnCommand.cpp">
+			<Option target="party"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/TVOnCommand.h">
+			<Option target="party"/>
+		</Unit>
 		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/command/party/main.cpp">
 			<Option target="party"/>
 		</Unit>

@@ -286,6 +286,465 @@ Hottub.cpp.s:
 	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\Hottub.cpp.s
 .PHONY : Hottub.cpp.s
 
+HottubOffCommand.obj: HottubOffCommand.cpp.obj
+
+.PHONY : HottubOffCommand.obj
+
+# target to build an object file
+HottubOffCommand.cpp.obj:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\HottubOffCommand.cpp.obj
+.PHONY : HottubOffCommand.cpp.obj
+
+HottubOffCommand.i: HottubOffCommand.cpp.i
+
+.PHONY : HottubOffCommand.i
+
+# target to preprocess a source file
+HottubOffCommand.cpp.i:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\HottubOffCommand.cpp.i
+.PHONY : HottubOffCommand.cpp.i
+
+HottubOffCommand.s: HottubOffCommand.cpp.s
+
+.PHONY : HottubOffCommand.s
+
+# target to generate assembly for a file
+HottubOffCommand.cpp.s:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\HottubOffCommand.cpp.s
+.PHONY : HottubOffCommand.cpp.s
+
+HottubOnCommand.obj: HottubOnCommand.cpp.obj
+
+.PHONY : HottubOnCommand.obj
+
+# target to build an object file
+HottubOnCommand.cpp.obj:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\HottubOnCommand.cpp.obj
+.PHONY : HottubOnCommand.cpp.obj
+
+HottubOnCommand.i: HottubOnCommand.cpp.i
+
+.PHONY : HottubOnCommand.i
+
+# target to preprocess a source file
+HottubOnCommand.cpp.i:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\HottubOnCommand.cpp.i
+.PHONY : HottubOnCommand.cpp.i
+
+HottubOnCommand.s: HottubOnCommand.cpp.s
+
+.PHONY : HottubOnCommand.s
+
+# target to generate assembly for a file
+HottubOnCommand.cpp.s:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\HottubOnCommand.cpp.s
+.PHONY : HottubOnCommand.cpp.s
+
+Light.obj: Light.cpp.obj
+
+.PHONY : Light.obj
+
+# target to build an object file
+Light.cpp.obj:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\Light.cpp.obj
+.PHONY : Light.cpp.obj
+
+Light.i: Light.cpp.i
+
+.PHONY : Light.i
+
+# target to preprocess a source file
+Light.cpp.i:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\Light.cpp.i
+.PHONY : Light.cpp.i
+
+Light.s: Light.cpp.s
+
+.PHONY : Light.s
+
+# target to generate assembly for a file
+Light.cpp.s:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\Light.cpp.s
+.PHONY : Light.cpp.s
+
+LightOffCommand.obj: LightOffCommand.cpp.obj
+
+.PHONY : LightOffCommand.obj
+
+# target to build an object file
+LightOffCommand.cpp.obj:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\LightOffCommand.cpp.obj
+.PHONY : LightOffCommand.cpp.obj
+
+LightOffCommand.i: LightOffCommand.cpp.i
+
+.PHONY : LightOffCommand.i
+
+# target to preprocess a source file
+LightOffCommand.cpp.i:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\LightOffCommand.cpp.i
+.PHONY : LightOffCommand.cpp.i
+
+LightOffCommand.s: LightOffCommand.cpp.s
+
+.PHONY : LightOffCommand.s
+
+# target to generate assembly for a file
+LightOffCommand.cpp.s:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\LightOffCommand.cpp.s
+.PHONY : LightOffCommand.cpp.s
+
+LightOnCommand.obj: LightOnCommand.cpp.obj
+
+.PHONY : LightOnCommand.obj
+
+# target to build an object file
+LightOnCommand.cpp.obj:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\LightOnCommand.cpp.obj
+.PHONY : LightOnCommand.cpp.obj
+
+LightOnCommand.i: LightOnCommand.cpp.i
+
+.PHONY : LightOnCommand.i
+
+# target to preprocess a source file
+LightOnCommand.cpp.i:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\LightOnCommand.cpp.i
+.PHONY : LightOnCommand.cpp.i
+
+LightOnCommand.s: LightOnCommand.cpp.s
+
+.PHONY : LightOnCommand.s
+
+# target to generate assembly for a file
+LightOnCommand.cpp.s:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\LightOnCommand.cpp.s
+.PHONY : LightOnCommand.cpp.s
+
+LivingroomLightOffCommand.obj: LivingroomLightOffCommand.cpp.obj
+
+.PHONY : LivingroomLightOffCommand.obj
+
+# target to build an object file
+LivingroomLightOffCommand.cpp.obj:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\LivingroomLightOffCommand.cpp.obj
+.PHONY : LivingroomLightOffCommand.cpp.obj
+
+LivingroomLightOffCommand.i: LivingroomLightOffCommand.cpp.i
+
+.PHONY : LivingroomLightOffCommand.i
+
+# target to preprocess a source file
+LivingroomLightOffCommand.cpp.i:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\LivingroomLightOffCommand.cpp.i
+.PHONY : LivingroomLightOffCommand.cpp.i
+
+LivingroomLightOffCommand.s: LivingroomLightOffCommand.cpp.s
+
+.PHONY : LivingroomLightOffCommand.s
+
+# target to generate assembly for a file
+LivingroomLightOffCommand.cpp.s:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\LivingroomLightOffCommand.cpp.s
+.PHONY : LivingroomLightOffCommand.cpp.s
+
+LivingroomLightOnCommand.obj: LivingroomLightOnCommand.cpp.obj
+
+.PHONY : LivingroomLightOnCommand.obj
+
+# target to build an object file
+LivingroomLightOnCommand.cpp.obj:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\LivingroomLightOnCommand.cpp.obj
+.PHONY : LivingroomLightOnCommand.cpp.obj
+
+LivingroomLightOnCommand.i: LivingroomLightOnCommand.cpp.i
+
+.PHONY : LivingroomLightOnCommand.i
+
+# target to preprocess a source file
+LivingroomLightOnCommand.cpp.i:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\LivingroomLightOnCommand.cpp.i
+.PHONY : LivingroomLightOnCommand.cpp.i
+
+LivingroomLightOnCommand.s: LivingroomLightOnCommand.cpp.s
+
+.PHONY : LivingroomLightOnCommand.s
+
+# target to generate assembly for a file
+LivingroomLightOnCommand.cpp.s:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\LivingroomLightOnCommand.cpp.s
+.PHONY : LivingroomLightOnCommand.cpp.s
+
+MacroCommand.obj: MacroCommand.cpp.obj
+
+.PHONY : MacroCommand.obj
+
+# target to build an object file
+MacroCommand.cpp.obj:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\MacroCommand.cpp.obj
+.PHONY : MacroCommand.cpp.obj
+
+MacroCommand.i: MacroCommand.cpp.i
+
+.PHONY : MacroCommand.i
+
+# target to preprocess a source file
+MacroCommand.cpp.i:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\MacroCommand.cpp.i
+.PHONY : MacroCommand.cpp.i
+
+MacroCommand.s: MacroCommand.cpp.s
+
+.PHONY : MacroCommand.s
+
+# target to generate assembly for a file
+MacroCommand.cpp.s:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\MacroCommand.cpp.s
+.PHONY : MacroCommand.cpp.s
+
+NoCommand.obj: NoCommand.cpp.obj
+
+.PHONY : NoCommand.obj
+
+# target to build an object file
+NoCommand.cpp.obj:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\NoCommand.cpp.obj
+.PHONY : NoCommand.cpp.obj
+
+NoCommand.i: NoCommand.cpp.i
+
+.PHONY : NoCommand.i
+
+# target to preprocess a source file
+NoCommand.cpp.i:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\NoCommand.cpp.i
+.PHONY : NoCommand.cpp.i
+
+NoCommand.s: NoCommand.cpp.s
+
+.PHONY : NoCommand.s
+
+# target to generate assembly for a file
+NoCommand.cpp.s:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\NoCommand.cpp.s
+.PHONY : NoCommand.cpp.s
+
+RemoteControl.obj: RemoteControl.cpp.obj
+
+.PHONY : RemoteControl.obj
+
+# target to build an object file
+RemoteControl.cpp.obj:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\RemoteControl.cpp.obj
+.PHONY : RemoteControl.cpp.obj
+
+RemoteControl.i: RemoteControl.cpp.i
+
+.PHONY : RemoteControl.i
+
+# target to preprocess a source file
+RemoteControl.cpp.i:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\RemoteControl.cpp.i
+.PHONY : RemoteControl.cpp.i
+
+RemoteControl.s: RemoteControl.cpp.s
+
+.PHONY : RemoteControl.s
+
+# target to generate assembly for a file
+RemoteControl.cpp.s:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\RemoteControl.cpp.s
+.PHONY : RemoteControl.cpp.s
+
+Stereo.obj: Stereo.cpp.obj
+
+.PHONY : Stereo.obj
+
+# target to build an object file
+Stereo.cpp.obj:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\Stereo.cpp.obj
+.PHONY : Stereo.cpp.obj
+
+Stereo.i: Stereo.cpp.i
+
+.PHONY : Stereo.i
+
+# target to preprocess a source file
+Stereo.cpp.i:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\Stereo.cpp.i
+.PHONY : Stereo.cpp.i
+
+Stereo.s: Stereo.cpp.s
+
+.PHONY : Stereo.s
+
+# target to generate assembly for a file
+Stereo.cpp.s:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\Stereo.cpp.s
+.PHONY : Stereo.cpp.s
+
+StereoOffCommand.obj: StereoOffCommand.cpp.obj
+
+.PHONY : StereoOffCommand.obj
+
+# target to build an object file
+StereoOffCommand.cpp.obj:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\StereoOffCommand.cpp.obj
+.PHONY : StereoOffCommand.cpp.obj
+
+StereoOffCommand.i: StereoOffCommand.cpp.i
+
+.PHONY : StereoOffCommand.i
+
+# target to preprocess a source file
+StereoOffCommand.cpp.i:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\StereoOffCommand.cpp.i
+.PHONY : StereoOffCommand.cpp.i
+
+StereoOffCommand.s: StereoOffCommand.cpp.s
+
+.PHONY : StereoOffCommand.s
+
+# target to generate assembly for a file
+StereoOffCommand.cpp.s:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\StereoOffCommand.cpp.s
+.PHONY : StereoOffCommand.cpp.s
+
+StereoOnCommand.obj: StereoOnCommand.cpp.obj
+
+.PHONY : StereoOnCommand.obj
+
+# target to build an object file
+StereoOnCommand.cpp.obj:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\StereoOnCommand.cpp.obj
+.PHONY : StereoOnCommand.cpp.obj
+
+StereoOnCommand.i: StereoOnCommand.cpp.i
+
+.PHONY : StereoOnCommand.i
+
+# target to preprocess a source file
+StereoOnCommand.cpp.i:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\StereoOnCommand.cpp.i
+.PHONY : StereoOnCommand.cpp.i
+
+StereoOnCommand.s: StereoOnCommand.cpp.s
+
+.PHONY : StereoOnCommand.s
+
+# target to generate assembly for a file
+StereoOnCommand.cpp.s:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\StereoOnCommand.cpp.s
+.PHONY : StereoOnCommand.cpp.s
+
+StereoOnWithCDCommand.obj: StereoOnWithCDCommand.cpp.obj
+
+.PHONY : StereoOnWithCDCommand.obj
+
+# target to build an object file
+StereoOnWithCDCommand.cpp.obj:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\StereoOnWithCDCommand.cpp.obj
+.PHONY : StereoOnWithCDCommand.cpp.obj
+
+StereoOnWithCDCommand.i: StereoOnWithCDCommand.cpp.i
+
+.PHONY : StereoOnWithCDCommand.i
+
+# target to preprocess a source file
+StereoOnWithCDCommand.cpp.i:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\StereoOnWithCDCommand.cpp.i
+.PHONY : StereoOnWithCDCommand.cpp.i
+
+StereoOnWithCDCommand.s: StereoOnWithCDCommand.cpp.s
+
+.PHONY : StereoOnWithCDCommand.s
+
+# target to generate assembly for a file
+StereoOnWithCDCommand.cpp.s:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\StereoOnWithCDCommand.cpp.s
+.PHONY : StereoOnWithCDCommand.cpp.s
+
+TV.obj: TV.cpp.obj
+
+.PHONY : TV.obj
+
+# target to build an object file
+TV.cpp.obj:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\TV.cpp.obj
+.PHONY : TV.cpp.obj
+
+TV.i: TV.cpp.i
+
+.PHONY : TV.i
+
+# target to preprocess a source file
+TV.cpp.i:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\TV.cpp.i
+.PHONY : TV.cpp.i
+
+TV.s: TV.cpp.s
+
+.PHONY : TV.s
+
+# target to generate assembly for a file
+TV.cpp.s:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\TV.cpp.s
+.PHONY : TV.cpp.s
+
+TVOffCommand.obj: TVOffCommand.cpp.obj
+
+.PHONY : TVOffCommand.obj
+
+# target to build an object file
+TVOffCommand.cpp.obj:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\TVOffCommand.cpp.obj
+.PHONY : TVOffCommand.cpp.obj
+
+TVOffCommand.i: TVOffCommand.cpp.i
+
+.PHONY : TVOffCommand.i
+
+# target to preprocess a source file
+TVOffCommand.cpp.i:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\TVOffCommand.cpp.i
+.PHONY : TVOffCommand.cpp.i
+
+TVOffCommand.s: TVOffCommand.cpp.s
+
+.PHONY : TVOffCommand.s
+
+# target to generate assembly for a file
+TVOffCommand.cpp.s:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\TVOffCommand.cpp.s
+.PHONY : TVOffCommand.cpp.s
+
+TVOnCommand.obj: TVOnCommand.cpp.obj
+
+.PHONY : TVOnCommand.obj
+
+# target to build an object file
+TVOnCommand.cpp.obj:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\TVOnCommand.cpp.obj
+.PHONY : TVOnCommand.cpp.obj
+
+TVOnCommand.i: TVOnCommand.cpp.i
+
+.PHONY : TVOnCommand.i
+
+# target to preprocess a source file
+TVOnCommand.cpp.i:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\TVOnCommand.cpp.i
+.PHONY : TVOnCommand.cpp.i
+
+TVOnCommand.s: TVOnCommand.cpp.s
+
+.PHONY : TVOnCommand.s
+
+# target to generate assembly for a file
+TVOnCommand.cpp.s:
+	$(MAKE) -f CMakeFiles\party.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\party.dir\TVOnCommand.cpp.s
+.PHONY : TVOnCommand.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -340,6 +799,57 @@ help:
 	@echo ... Hottub.obj
 	@echo ... Hottub.i
 	@echo ... Hottub.s
+	@echo ... HottubOffCommand.obj
+	@echo ... HottubOffCommand.i
+	@echo ... HottubOffCommand.s
+	@echo ... HottubOnCommand.obj
+	@echo ... HottubOnCommand.i
+	@echo ... HottubOnCommand.s
+	@echo ... Light.obj
+	@echo ... Light.i
+	@echo ... Light.s
+	@echo ... LightOffCommand.obj
+	@echo ... LightOffCommand.i
+	@echo ... LightOffCommand.s
+	@echo ... LightOnCommand.obj
+	@echo ... LightOnCommand.i
+	@echo ... LightOnCommand.s
+	@echo ... LivingroomLightOffCommand.obj
+	@echo ... LivingroomLightOffCommand.i
+	@echo ... LivingroomLightOffCommand.s
+	@echo ... LivingroomLightOnCommand.obj
+	@echo ... LivingroomLightOnCommand.i
+	@echo ... LivingroomLightOnCommand.s
+	@echo ... MacroCommand.obj
+	@echo ... MacroCommand.i
+	@echo ... MacroCommand.s
+	@echo ... NoCommand.obj
+	@echo ... NoCommand.i
+	@echo ... NoCommand.s
+	@echo ... RemoteControl.obj
+	@echo ... RemoteControl.i
+	@echo ... RemoteControl.s
+	@echo ... Stereo.obj
+	@echo ... Stereo.i
+	@echo ... Stereo.s
+	@echo ... StereoOffCommand.obj
+	@echo ... StereoOffCommand.i
+	@echo ... StereoOffCommand.s
+	@echo ... StereoOnCommand.obj
+	@echo ... StereoOnCommand.i
+	@echo ... StereoOnCommand.s
+	@echo ... StereoOnWithCDCommand.obj
+	@echo ... StereoOnWithCDCommand.i
+	@echo ... StereoOnWithCDCommand.s
+	@echo ... TV.obj
+	@echo ... TV.i
+	@echo ... TV.s
+	@echo ... TVOffCommand.obj
+	@echo ... TVOffCommand.i
+	@echo ... TVOffCommand.s
+	@echo ... TVOnCommand.obj
+	@echo ... TVOnCommand.i
+	@echo ... TVOnCommand.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
