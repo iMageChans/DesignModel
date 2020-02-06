@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Chans/Documents/DesignModel/C++/decorator/pizza/Cheese.h
+ToppingDecorator.h
+C:/Users/Chans/Documents/DesignModel/C++/decorator/pizza/ToppingDecorator.h
+
+C:/Users/Chans/Documents/DesignModel/C++/decorator/pizza/Olives.h
+ToppingDecorator.h
+C:/Users/Chans/Documents/DesignModel/C++/decorator/pizza/ToppingDecorator.h
+
+C:/Users/Chans/Documents/DesignModel/C++/decorator/pizza/Pizza.h
+xstring
+-
+
+C:/Users/Chans/Documents/DesignModel/C++/decorator/pizza/ThincrustPizza.h
+Pizza.h
+C:/Users/Chans/Documents/DesignModel/C++/decorator/pizza/Pizza.h
+
+C:/Users/Chans/Documents/DesignModel/C++/decorator/pizza/ToppingDecorator.h
+Pizza.h
+C:/Users/Chans/Documents/DesignModel/C++/decorator/pizza/Pizza.h
+
+C:/Users/Chans/Documents/DesignModel/C++/decorator/pizza/main.cpp
+iostream
+-
+ToppingDecorator.h
+C:/Users/Chans/Documents/DesignModel/C++/decorator/pizza/ToppingDecorator.h
+ThincrustPizza.h
+C:/Users/Chans/Documents/DesignModel/C++/decorator/pizza/ThincrustPizza.h
+Cheese.h
+C:/Users/Chans/Documents/DesignModel/C++/decorator/pizza/Cheese.h
+Olives.h
+C:/Users/Chans/Documents/DesignModel/C++/decorator/pizza/Olives.h
+
