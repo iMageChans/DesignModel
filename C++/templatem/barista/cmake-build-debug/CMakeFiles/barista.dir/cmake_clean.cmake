@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/barista.dir/CaffeineBeverage.cpp.obj"
+  "CMakeFiles/barista.dir/Coffee.cpp.obj"
+  "CMakeFiles/barista.dir/Tea.cpp.obj"
   "CMakeFiles/barista.dir/main.cpp.obj"
   "barista.exe"
   "barista.exe.manifest"

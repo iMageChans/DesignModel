@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/CaffeineBeverage.cpp
+CaffeineBeverage.h
+C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/CaffeineBeverage.h
+
+C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/CaffeineBeverage.h
+iostream
+-
+
+C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/Coffee.cpp
+Coffee.h
+C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/Coffee.h
+
+C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/Coffee.h
+CaffeineBeverage.h
+C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/CaffeineBeverage.h
+
+C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/Tea.cpp
+Tea.h
+C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/Tea.h
+
+C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/Tea.h
+CaffeineBeverage.h
+C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/CaffeineBeverage.h
+
+C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/main.cpp
+iostream
+-
+CaffeineBeverage.h
+C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/CaffeineBeverage.h
+Coffee.h
+C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/Coffee.h
+Tea.h
+C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/Tea.h
+

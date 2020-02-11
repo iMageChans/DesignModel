@@ -75,12 +75,12 @@ preinstall:
 CMakeFiles\barista.dir\all:
 	$(MAKE) -f CMakeFiles\barista.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\barista.dir\depend
 	$(MAKE) -f CMakeFiles\barista.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\barista.dir\build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\templatem\barista\cmake-build-debug\CMakeFiles --progress-num=1,2,3 "Built target barista"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\templatem\barista\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5 "Built target barista"
 .PHONY : CMakeFiles\barista.dir\all
 
 # Build rule for subdir invocation for target.
 CMakeFiles\barista.dir\rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Chans\Documents\DesignModel\C++\templatem\barista\cmake-build-debug\CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Chans\Documents\DesignModel\C++\templatem\barista\cmake-build-debug\CMakeFiles 5
 	$(MAKE) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) CMakeFiles\barista.dir\all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Chans\Documents\DesignModel\C++\templatem\barista\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles\barista.dir\rule

@@ -88,6 +88,18 @@
 		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/CaffeineBeverage.h">
 			<Option target="barista"/>
 		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/Coffee.cpp">
+			<Option target="barista"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/Coffee.h">
+			<Option target="barista"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/Tea.cpp">
+			<Option target="barista"/>
+		</Unit>
+		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/Tea.h">
+			<Option target="barista"/>
+		</Unit>
 		<Unit filename="C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/main.cpp">
 			<Option target="barista"/>
 		</Unit>

@@ -11,6 +11,13 @@ using namespace std;
 
 class CaffeineBeverage {
 public:
+    virtual void prepareRecipe(){
+        boilWater();
+        brew();
+        pourInCup();
+        addCondiments();
+    }
+
     virtual void boilWater(){
         cout << "Boiling water" << endl;
     }

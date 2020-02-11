@@ -96,19 +96,61 @@ CMakeFiles\barista.dir\CaffeineBeverage.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\barista.dir\CaffeineBeverage.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\templatem\barista\CaffeineBeverage.cpp
 <<
 
+CMakeFiles\barista.dir\Coffee.cpp.obj: CMakeFiles\barista.dir\flags.make
+CMakeFiles\barista.dir\Coffee.cpp.obj: ..\Coffee.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\templatem\barista\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/barista.dir/Coffee.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\barista.dir\Coffee.cpp.obj /FdCMakeFiles\barista.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\templatem\barista\Coffee.cpp
+<<
+
+CMakeFiles\barista.dir\Coffee.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/barista.dir/Coffee.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\barista.dir\Coffee.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\templatem\barista\Coffee.cpp
+<<
+
+CMakeFiles\barista.dir\Coffee.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/barista.dir/Coffee.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\barista.dir\Coffee.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\templatem\barista\Coffee.cpp
+<<
+
+CMakeFiles\barista.dir\Tea.cpp.obj: CMakeFiles\barista.dir\flags.make
+CMakeFiles\barista.dir\Tea.cpp.obj: ..\Tea.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\templatem\barista\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/barista.dir/Tea.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\barista.dir\Tea.cpp.obj /FdCMakeFiles\barista.dir\ /FS -c C:\Users\Chans\Documents\DesignModel\C++\templatem\barista\Tea.cpp
+<<
+
+CMakeFiles\barista.dir\Tea.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/barista.dir/Tea.cpp.i"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\barista.dir\Tea.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Chans\Documents\DesignModel\C++\templatem\barista\Tea.cpp
+<<
+
+CMakeFiles\barista.dir\Tea.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/barista.dir/Tea.cpp.s"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\barista.dir\Tea.cpp.s /c C:\Users\Chans\Documents\DesignModel\C++\templatem\barista\Tea.cpp
+<<
+
 # Object files for target barista
 barista_OBJECTS = \
 "CMakeFiles\barista.dir\main.cpp.obj" \
-"CMakeFiles\barista.dir\CaffeineBeverage.cpp.obj"
+"CMakeFiles\barista.dir\CaffeineBeverage.cpp.obj" \
+"CMakeFiles\barista.dir\Coffee.cpp.obj" \
+"CMakeFiles\barista.dir\Tea.cpp.obj"
 
 # External object files for target barista
 barista_EXTERNAL_OBJECTS =
 
 barista.exe: CMakeFiles\barista.dir\main.cpp.obj
 barista.exe: CMakeFiles\barista.dir\CaffeineBeverage.cpp.obj
+barista.exe: CMakeFiles\barista.dir\Coffee.cpp.obj
+barista.exe: CMakeFiles\barista.dir\Tea.cpp.obj
 barista.exe: CMakeFiles\barista.dir\build.make
 barista.exe: CMakeFiles\barista.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\templatem\barista\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable barista.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Chans\Documents\DesignModel\C++\templatem\barista\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable barista.exe"
 	C:\Users\Chans\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6015.37\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\barista.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\barista.dir\objects1.rsp @<<
  /out:barista.exe /implib:barista.lib /pdb:C:\Users\Chans\Documents\DesignModel\C++\templatem\barista\cmake-build-debug\barista.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

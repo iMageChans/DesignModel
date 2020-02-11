@@ -5,6 +5,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/CaffeineBeverage.cpp" "C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/cmake-build-debug/CMakeFiles/barista.dir/CaffeineBeverage.cpp.obj"
+  "C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/Coffee.cpp" "C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/cmake-build-debug/CMakeFiles/barista.dir/Coffee.cpp.obj"
+  "C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/Tea.cpp" "C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/cmake-build-debug/CMakeFiles/barista.dir/Tea.cpp.obj"
   "C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/main.cpp" "C:/Users/Chans/Documents/DesignModel/C++/templatem/barista/cmake-build-debug/CMakeFiles/barista.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")

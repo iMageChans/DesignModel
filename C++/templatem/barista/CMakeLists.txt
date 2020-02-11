@@ -3,4 +3,4 @@ project(barista)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(barista main.cpp CaffeineBeverage.cpp CaffeineBeverage.h)
+add_executable(barista main.cpp CaffeineBeverage.cpp CaffeineBeverage.h Coffee.cpp Coffee.h Tea.cpp Tea.h)

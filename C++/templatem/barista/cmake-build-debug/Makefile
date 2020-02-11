@@ -151,6 +151,60 @@ CaffeineBeverage.cpp.s:
 	$(MAKE) -f CMakeFiles\barista.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\barista.dir\CaffeineBeverage.cpp.s
 .PHONY : CaffeineBeverage.cpp.s
 
+Coffee.obj: Coffee.cpp.obj
+
+.PHONY : Coffee.obj
+
+# target to build an object file
+Coffee.cpp.obj:
+	$(MAKE) -f CMakeFiles\barista.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\barista.dir\Coffee.cpp.obj
+.PHONY : Coffee.cpp.obj
+
+Coffee.i: Coffee.cpp.i
+
+.PHONY : Coffee.i
+
+# target to preprocess a source file
+Coffee.cpp.i:
+	$(MAKE) -f CMakeFiles\barista.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\barista.dir\Coffee.cpp.i
+.PHONY : Coffee.cpp.i
+
+Coffee.s: Coffee.cpp.s
+
+.PHONY : Coffee.s
+
+# target to generate assembly for a file
+Coffee.cpp.s:
+	$(MAKE) -f CMakeFiles\barista.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\barista.dir\Coffee.cpp.s
+.PHONY : Coffee.cpp.s
+
+Tea.obj: Tea.cpp.obj
+
+.PHONY : Tea.obj
+
+# target to build an object file
+Tea.cpp.obj:
+	$(MAKE) -f CMakeFiles\barista.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\barista.dir\Tea.cpp.obj
+.PHONY : Tea.cpp.obj
+
+Tea.i: Tea.cpp.i
+
+.PHONY : Tea.i
+
+# target to preprocess a source file
+Tea.cpp.i:
+	$(MAKE) -f CMakeFiles\barista.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\barista.dir\Tea.cpp.i
+.PHONY : Tea.cpp.i
+
+Tea.s: Tea.cpp.s
+
+.PHONY : Tea.s
+
+# target to generate assembly for a file
+Tea.cpp.s:
+	$(MAKE) -f CMakeFiles\barista.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\barista.dir\Tea.cpp.s
+.PHONY : Tea.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -190,6 +244,12 @@ help:
 	@echo ... CaffeineBeverage.obj
 	@echo ... CaffeineBeverage.i
 	@echo ... CaffeineBeverage.s
+	@echo ... Coffee.obj
+	@echo ... Coffee.i
+	@echo ... Coffee.s
+	@echo ... Tea.obj
+	@echo ... Tea.i
+	@echo ... Tea.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
