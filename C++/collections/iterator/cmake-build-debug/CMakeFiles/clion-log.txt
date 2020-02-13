@@ -1,0 +1,4 @@
+C:\Users\Chans\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6015.37\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\Chans\Documents\DesignModel\C++\collections\iterator
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Chans/Documents/DesignModel/C++/collections/iterator/cmake-build-debug
