@@ -1,0 +1,1 @@
+C:\Users\Chans\Documents\DesignModel\Rust\demo\simple\target\debug\simple.exe: C:\Users\Chans\Documents\DesignModel\Rust\demo\simple\src\duck.rs C:\Users\Chans\Documents\DesignModel\Rust\demo\simple\src\main.rs
