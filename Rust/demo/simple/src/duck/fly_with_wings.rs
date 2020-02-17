@@ -4,6 +4,6 @@ pub struct FlyWithWings{}
 
 impl FlyBehavior for FlyWithWings{
     fn fly(&self) {
-        println!("fly")
+        println!("I'm flying!!")
     }
 }

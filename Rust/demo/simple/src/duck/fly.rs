@@ -16,6 +16,7 @@ impl Fly{
             FlyType::FlyWithWings => Box::new(FlyWithWings{}),
             FlyType::FlyNoWay => Box::new(FlyNoWay{}),
             FlyType::FlyRocketPowered => Box::new(FlyRocketPowered{}),
+            _=> Box::new(FlyWithWings{}),
         }
     }
 }
